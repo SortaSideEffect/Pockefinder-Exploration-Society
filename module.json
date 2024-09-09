@@ -1,0 +1,16 @@
+{
+  "id": "pokefinder-wip",
+  "title": "Pokefinder WIP",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Side-Effect",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/SortaSideEffect/Pockefinder-Exploration-Society"
+}
