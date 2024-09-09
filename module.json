@@ -24,6 +24,7 @@
       "flags": {}
     }
   ],
+  "url": "https://github.com/SortaSideEffect/Pockefinder-Exploration-Society.git",
   "packs": [
     {
       "name": "pack-1",
@@ -37,4 +38,6 @@
       "system": "pf2e"
     }
   ]
+  "manifest": "https://raw.githubusercontent.com/SortaSideEffect/Pockefinder-Exploration-Society/blob/main/module.json",
+  "download": "https://github.com/SortaSideEffect/Pockefinder-Exploration-Society/archive/refs/heads/main.zip"
 }
