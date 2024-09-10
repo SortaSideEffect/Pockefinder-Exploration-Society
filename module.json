@@ -1,5 +1,7 @@
 {
   "id": "pokefinder-exploration-society",
+  "manifest": "https://raw.githubusercontent.com/SortaSideEffect/Pockefinder-Exploration-Society/main/module.json",
+  "download": "https://github.com/SortaSideEffect/Pockefinder-Exploration-Society/archive/refs/heads/main.zip",
   "title": "Pokefinder Exploration Society",
   "description": "Side-Effect's WIP Poke-Heritages and Ancestries for player and GM use.",
   "version": "0.0.1",
