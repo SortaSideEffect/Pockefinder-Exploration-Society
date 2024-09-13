@@ -1,18 +1,17 @@
-2024/09/10-14:12:24.171 18d8 Recovering log #37
-2024/09/10-14:12:24.175 18d8 Delete type=2 #16
-2024/09/10-14:12:24.175 18d8 Delete type=0 #22
-2024/09/10-14:12:24.175 18d8 Delete type=0 #24
-2024/09/10-14:12:24.175 18d8 Delete type=0 #26
-2024/09/10-14:12:24.176 18d8 Delete type=0 #31
-2024/09/10-14:12:24.176 18d8 Delete type=2 #34
-2024/09/10-14:12:24.176 18d8 Delete type=0 #37
-2024/09/10-14:12:24.176 18d8 Delete type=3 #21
-2024/09/10-14:12:24.176 18d8 Delete type=3 #23
-2024/09/10-14:12:24.176 18d8 Delete type=3 #25
-2024/09/10-14:12:24.176 18d8 Delete type=3 #28
-2024/09/10-14:12:24.176 18d8 Delete type=3 #35
-2024/09/10-18:38:43.965 5170 Level-0 table #43: started
-2024/09/10-18:38:43.965 5170 Level-0 table #43: 0 bytes OK
-2024/09/10-18:38:43.967 5170 Delete type=0 #41
-2024/09/10-18:38:43.969 5170 Manual compaction at level-0 from '!folders!05mhGHjbREgaK3H4' @ 72057594037927935 : 1 .. '!items!zbSfLftzSD8s5JSu' @ 0 : 0; will stop at (end)
-2024/09/10-18:38:43.969 5170 Manual compaction at level-1 from '!folders!05mhGHjbREgaK3H4' @ 72057594037927935 : 1 .. '!items!zbSfLftzSD8s5JSu' @ 0 : 0; will stop at (end)
+2024/09/11-18:24:54.655 6080 Recovering log #45
+2024/09/11-18:24:54.655 6080 Level-0 table #47: started
+2024/09/11-18:24:54.659 6080 Level-0 table #47: 48334 bytes OK
+2024/09/11-18:24:54.663 6080 Delete type=2 #16
+2024/09/11-18:24:54.663 6080 Delete type=0 #22
+2024/09/11-18:24:54.663 6080 Delete type=0 #24
+2024/09/11-18:24:54.663 6080 Delete type=0 #26
+2024/09/11-18:24:54.664 6080 Delete type=0 #31
+2024/09/11-18:24:54.664 6080 Delete type=2 #34
+2024/09/11-18:24:54.664 6080 Delete type=0 #37
+2024/09/11-18:24:54.664 6080 Delete type=0 #45
+2024/09/11-18:24:54.664 6080 Delete type=3 #21
+2024/09/11-18:24:54.664 6080 Delete type=3 #23
+2024/09/11-18:24:54.664 6080 Delete type=3 #25
+2024/09/11-18:24:54.664 6080 Delete type=3 #28
+2024/09/11-18:24:54.665 6080 Delete type=3 #35
+2024/09/11-18:24:54.665 6080 Delete type=3 #44
