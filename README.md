@@ -4,6 +4,7 @@ Should you wish to watch this Campaign, it can be watched at https://www.twitch.
 If you have any questions, concerns, reccommendations or suggestions, contacting Side-Effect through Discord is the fastest method. 
 
 Currently most if not all documentation is found at the following address otherwise.
+
 https://drive.google.com/drive/folders/1SvOoIlMdPbT2r94r9p1en-41bX0C0pb9?usp=sharing
 
 However the FAQ and general guidelines will be outlined here.
