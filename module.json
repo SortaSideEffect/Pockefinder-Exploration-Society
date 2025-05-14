@@ -4,61 +4,62 @@
   "download": "https://github.com/SortaSideEffect/Pockefinder-Exploration-Society/archive/refs/heads/main.zip",
   "title": "Pokefinder Exploration Society",
   "description": "Side-Effect's WIP Poke-Heritages and Ancestries for player and GM use.",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "url": "https://github.com/SortaSideEffect/Pockefinder-Exploration-Society",
+  "styles": ["styles/damage-color.css"],
   "flags": {
     "pokefinder-exploration-society": {
       "pf2e-homebrew": {
         "damageTypes": {
-          "steel-type-metal": {
-            "label": "Metal",
+          "steel": {
+            "label": "Steel",
             "category": "physical",
             "icon": "fa-ring",
             "description": "I am not sure if description is actually a thing for damage types but worth a try"
           },
-          "grass-type-nature": {
-            "label": "Nature",
+          "grass": {
+            "label": "Grass",
             "category": "physical",
-            "icon": "fa-droplet",
+            "icon": "fa-leaf",
             "description": "I am not sure if description is actually a thing for damage types but worth a try"
           },
-          "flying-type-wind": {
-            "label": "Wind",
+          "flying": {
+            "label": "Flying",
             "category": "physical",
             "icon": "fa-wind",
             "description": "I am not sure if description is actually a thing for damage types but worth a try"
           },
-          "rock-type": {
+          "rock": {
             "label": "Rock",
             "category": "physical",
             "icon": "fa-mountain",
             "description": "I am not sure if description is actually a thing for damage types but worth a try"
           },
-          "ground-type": {
+          "ground": {
             "label": "Ground",
             "category": "physical",
             "icon": "fa-hourglass",
             "description": "I am not sure if description is actually a thing for damage types but worth a try"
           },
-          "dark-type-darkness": {
+          "darkness": {
             "label": "Darkness",
             "category": "energy",
             "icon": "fa-moon",
             "description": "I am not sure if description is actually a thing for damage types but worth a try"
           },
-          "fairy-type-fey": {
+          "fey": {
             "label": "Fey",
             "category": "energy",
             "icon": "fa-sun",
             "description": "I am not sure if description is actually a thing for damage types but worth a try"
           },
-          "water-type": {
+          "watery": {
             "label": "Water",
             "category": "physical",
             "icon": "fa-droplet",
             "description": "I am not sure if description is actually a thing for damage types but worth a try"
           },
-          "dragon-type": {
+          "draconic": {
             "label": "Draconic",
             "category": "physical",
             "icon": "fa-dragon",

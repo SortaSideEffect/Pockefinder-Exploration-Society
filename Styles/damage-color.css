@@ -1,0 +1,117 @@
+:root .damage {
+  --color-bg-flying: rgba(245, 180, 17, 0.125);
+  --color-border-flying: #8899FF;
+  --color-text-flying: rgb(136, 153, 255);
+
+  --color-bg-steel: rgba(245, 180, 17, 0.125);
+  --color-border-steel: #888896;
+  --color-text-steel: rgb(136, 136, 150);
+
+  --color-bg-grass: rgba(245, 180, 17, 0.125);
+  --color-border-grass: #77CC55;
+  --color-text-grass: rgb(119, 204, 85);
+
+  --color-bg-rock: rgba(245, 180, 17, 0.125);
+  --color-border-rock: #877A4A;
+  --color-text-rock: rgb(135, 120, 75);
+
+  --color-bg-ground: rgba(245, 180, 17, 0.125);
+  --color-border-ground: #BBAA66;
+  --color-text-ground: rgb(135, 122, 74);
+
+  --color-bg-darkness: rgba(245, 180, 17, 0.125);
+  --color-border-darkness: #775544;
+  --color-text-darkness: rgb(120, 85, 70);
+
+  --color-bg-fey: rgba(245, 180, 17, 0.125);
+  --color-border-fey: #EE99EE;
+  --color-text-fey: rgb(240, 150, 240);
+
+  --color-bg-watery: rgba(245, 180, 17, 0.125);
+  --color-border-watery: #3399FF;
+  --color-text-watery: rgb(50, 150, 255);
+
+  --color-bg-draconic: rgba(245, 180, 17, 0.125);
+  --color-border-draconic: #7766EE;
+  --color-text-draconic: rgb(120, 100, 240);
+}
+:root .damage.color.flying {
+  background-color: var(--color-bg-flying);
+  border-color: var(--color-border-flying);
+  color: var(--color-text-flying);
+}
+:root .damage.color.flying i[class^=fa-] {
+  color: var(--color-border-flying);
+}
+
+:root .damage.color.steel {
+  background-color: var(--color-bg-metal);
+  border-color: var(--color-border-metal);
+  color: var(--color-text-metal);
+}
+:root .damage.color.steel i[class^=fa-] {
+  color: var(--color-border-metal);
+}
+
+:root .damage.color.grass {
+  background-color: var(--color-bg-grass);
+  border-color: var(--color-border-grass);
+  color: var(--color-text-grass);
+}
+:root .damage.color.grass i[class^=fa-] {
+  color: var(--color-border-grass);
+}
+
+:root .damage.color.rock {
+  background-color: var(--color-bg-rock);
+  border-color: var(--color-border-rock);
+  color: var(--color-text-rock);
+}
+:root .damage.color.rock i[class^=fa-] {
+  color: var(--color-border-rock);
+}
+
+:root .damage.color.ground {
+  background-color: var(--color-bg-ground);
+  border-color: var(--color-border-ground);
+  color: var(--color-text-ground);
+}
+:root .damage.color.ground i[class^=fa-] {
+  color: var(--color-border-ground);
+}
+
+:root .damage.color.darkness {
+  backdarkness-color: var(--color-bg-darkness);
+  border-color: var(--color-border-darkness);
+  color: var(--color-text-darkness);
+}
+:root .damage.color.darkness i[class^=fa-] {
+  color: var(--color-border-darkness);
+}
+
+:root .damage.color.fey {
+  backfey-color: var(--color-bg-fey);
+  border-color: var(--color-border-fey);
+  color: var(--color-text-fey);
+}
+:root .damage.color.fey i[class^=fa-] {
+  color: var(--color-border-fey);
+}
+
+:root .damage.color.watery {
+  backwatery-color: var(--color-bg-watery);
+  border-color: var(--color-border-watery);
+  color: var(--color-text-watery);
+}
+:root .damage.color.watery i[class^=fa-] {
+  color: var(--color-border-watery);
+}
+
+:root .damage.color.draconic {
+  backdraconic-color: var(--color-bg-draconic);
+  border-color: var(--color-border-draconic);
+  color: var(--color-text-draconic);
+}
+:root .damage.color.draconic i[class^=fa-] {
+  color: var(--color-border-draconic);
+}
