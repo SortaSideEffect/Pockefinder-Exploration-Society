@@ -4,9 +4,9 @@
   "download": "https://github.com/SortaSideEffect/Pockefinder-Exploration-Society/archive/refs/heads/main.zip",
   "title": "Pokefinder Exploration Society",
   "description": "Side-Effect's WIP Poke-Heritages and Ancestries for player and GM use.",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "url": "https://github.com/SortaSideEffect/Pockefinder-Exploration-Society",
-  "styles": ["Styles/damage-color.css"],
+  "styles": ["styles/damage-color.css"],
   "flags": {
     "pokefinder-exploration-society": {
       "pf2e-homebrew": {
@@ -55,7 +55,7 @@
           },
           "watery": {
             "label": "Water",
-            "category": "physical",
+            "category": "energy",
             "icon": "fa-droplet",
             "description": "I am not sure if description is actually a thing for damage types but worth a try"
           },
