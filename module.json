@@ -4,7 +4,7 @@
   "download": "https://github.com/SortaSideEffect/Pockefinder-Exploration-Society/archive/refs/heads/main.zip",
   "title": "Pokefinder Exploration Society",
   "description": "Side-Effect's WIP Poke-Heritages and Ancestries for player and GM use.",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "url": "https://github.com/SortaSideEffect/Pockefinder-Exploration-Society",
   "styles": ["Styles/damage-color.css"],
   "flags": {
