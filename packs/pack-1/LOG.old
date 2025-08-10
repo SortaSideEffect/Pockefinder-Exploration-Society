@@ -1,15 +1,17 @@
-2025/07/28-16:28:27.815 467c Recovering log #310
-2025/07/28-16:28:27.820 467c Delete type=0 #310
-2025/07/28-16:28:27.820 467c Delete type=3 #308
-2025/07/28-22:34:11.334 42a8 Level-0 table #316: started
-2025/07/28-22:34:11.338 42a8 Level-0 table #316: 38921 bytes OK
-2025/07/28-22:34:11.340 42a8 Delete type=0 #314
-2025/07/28-22:34:11.346 42a8 Manual compaction at level-0 from '!folders!05mhGHjbREgaK3H4' @ 72057594037927935 : 1 .. '!items!zzfNWGqgOTxpW6qe' @ 0 : 0; will stop at (end)
-2025/07/28-22:34:11.347 42a8 Manual compaction at level-1 from '!folders!05mhGHjbREgaK3H4' @ 72057594037927935 : 1 .. '!items!zzfNWGqgOTxpW6qe' @ 0 : 0; will stop at '!items!wTSKcXTdkaoUACLa' @ 3321 : 1
-2025/07/28-22:34:11.347 42a8 Compacting 1@1 + 1@2 files
-2025/07/28-22:34:11.359 42a8 Generated table #317@1: 618 keys, 733839 bytes
-2025/07/28-22:34:11.359 42a8 Compacted 1@1 + 1@2 files => 733839 bytes
-2025/07/28-22:34:11.361 42a8 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/07/28-22:34:11.361 42a8 Delete type=2 #312
-2025/07/28-22:34:11.361 42a8 Delete type=2 #316
-2025/07/28-22:34:11.366 42a8 Manual compaction at level-1 from '!items!wTSKcXTdkaoUACLa' @ 3321 : 1 .. '!items!zzfNWGqgOTxpW6qe' @ 0 : 0; will stop at (end)
+2025/08/08-11:18:21.088 30f4 Recovering log #346
+2025/08/08-11:18:21.088 30f4 Level-0 table #348: started
+2025/08/08-11:18:21.091 30f4 Level-0 table #348: 26279 bytes OK
+2025/08/08-11:18:21.096 30f4 Delete type=0 #346
+2025/08/08-11:18:21.096 30f4 Delete type=3 #344
+2025/08/09-23:18:29.342 2a84 Compacting 1@0 + 1@1 files
+2025/08/09-23:18:29.346 2a84 Generated table #350@0: 9 keys, 14202 bytes
+2025/08/09-23:18:29.346 2a84 Compacted 1@0 + 1@1 files => 14202 bytes
+2025/08/09-23:18:29.347 2a84 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/09-23:18:29.348 2a84 Delete type=2 #345
+2025/08/09-23:18:29.348 2a84 Delete type=2 #348
+2025/08/09-23:31:26.885 2a84 Compacting 1@1 + 1@2 files
+2025/08/09-23:31:26.897 2a84 Generated table #351@1: 629 keys, 750430 bytes
+2025/08/09-23:31:26.897 2a84 Compacted 1@1 + 1@2 files => 750430 bytes
+2025/08/09-23:31:26.899 2a84 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/08/09-23:31:26.899 2a84 Delete type=2 #341
+2025/08/09-23:31:26.900 2a84 Delete type=2 #350
