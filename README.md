@@ -1,6 +1,6 @@
 This here is Side-Effect's PF2e homebrew, Pockefinder Exploration Society homebrew, made for the Foundry VTT..
 At the time of writing, this Module is used in Abby Abra's Continent of Steel campaign and its uses will be focused on that first and foremost.
-Should you wish to watch this Campaign, it can be watched at https://www.twitch.tv/abra every 2 weeks on Saturdays.
+Should you wish to watch this Campaign, it can be watched at https://www.twitch.tv/abra every 2 weeks on Sundays.
 If you have any questions, concerns, reccommendations or suggestions, contacting Side-Effect through Discord is the fastest method. 
 
 Currently most if not all documentation is found at the following address otherwise.
